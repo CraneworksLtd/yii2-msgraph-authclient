@@ -1,0 +1,20 @@
+{
+    "name": "cranedev/yii2-authclientO365",
+    "description": "Office 365 Authclient",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Antti Koivisto",
+            "email": "antti.koivisto@craneworks.fi"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "cranedev\\authclientO365\\": ""
+        }
+    },
+    "require": {
+        "yiisoft/yii2-authclient": "*"
+    }
+}
